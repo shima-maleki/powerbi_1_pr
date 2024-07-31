@@ -1,0 +1,1 @@
+this is my first powerbi practice with AiCore
